@@ -32,74 +32,73 @@ First you need to "remote" into the VM. If you haven't already, make sure that y
 </p>
 
 <p>
-<img src="" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/k8aJ1CZ.png" height="80%" width="80%" alt=""/>
 </p>
 
 When you're in the application, either type in the VM's public IP address (Windows) or select "Add PC" and then enter the IP address (macOS). Connect to the machine. A new window will open up and you will be prompted to log in using the credentials you created when you made the VM. Enter these and hit **ENTER**. 
 
 <p>
-<img src="" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/kcNHtpE.png" height="80%" width="80%" alt=""/>
 </p>
 
-Then click **Continue**
+Then click **Continue**.
 
 <p>
-<img src="" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/mOZA8Rj.png" height="80%" width="80%" alt=""/>
 </p>
 
 Once connected to your Virtual Machine you should see a standard Windows 10 desktop. Go to the web browser and type http://protonvpn.com. Create a free account. This gives you access to 3 sites to connect to globally.
 
 <p>
-<img src="" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/CwU2q6G.png" height="80%" width="80%" alt=""/>
 </p>
 
-Once you've created your account, then login and navigate to the **Downloads** page. 
+Once you've created your account, then login and navigate to the **Downloads** page. Select **Windows**.  
 
 <p>
-<img src="" height="80%" width="80%" alt=""/>
-</p>
-
-Select the Windows.  
-
-<p>
-<img src="" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/hM4v1ix.png" height="80%" width="80%" alt=""/>
 </p>
 
 Then click **Download Proton VPN**.
 
 <p>
-<img src="" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/HMOazEC.png" height="80%" width="80%" alt=""/>
 </p>
 
 Once the installer has downloaded, click **Open file** to run the installation. Click **Next** until you reach **Install**, then click **Install**.
 
 <p>
-<img src="" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/ZUvZw8l.png" height="80%" width="80%" alt=""/>
 </p>
 
 Once installed, Proton VPN will open and you'll need to login. 
 
 <p>
-<img src="" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/vYuuaPy.png" height="80%" width="80%" alt=""/>
 </p>
 
 Once logged in, you will be presented with the window below. On the left hand pane you are given the option of which VPN server you would like to connect to. 
 
 <p>
-<img src="" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/6jjPJoG.png" height="80%" width="80%" alt=""/>
 </p>
 
 Since we are using the free-tier, we only have the U.S., Netherlands and Japan available to us. Select one of these to connect to.
 
 <p>
-<img src="" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/yZOfUDl.png" height="80%" width="80%" alt=""/>
 </p>
 
 While the VPN is connecting to the server the connection to the Virtual Machine will be interrupted. The Virtual Machine will re-establish the connection by itself. If not, simply reconnect to it.
 
 <p>
-<img src="" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/gsxhQjF.png" height="80%" width="80%" alt=""/>
 </p>
 
+CONGRATULATIONS!!! You are now connected to a VPN for free!!
+To check your logical location then navigate to whatismyipaddress.com. This will give you information about your IP address and where it is located.
 
+<p>
+<img src="https://i.imgur.com/KB3Tjyb.png" height="80%" width="80%" alt=""/>
+</p>
 
