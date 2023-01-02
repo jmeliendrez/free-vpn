@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/jKfy3JS.png" alt="Azure Logo"/>
+<img src="https://protonvpn.com/assets/img/protonvpn-transparent.svg" alt="Proton VPN Logo"/>
 </p>
 
 # 🏗️ Setting Up A VPN
@@ -24,7 +24,7 @@
 - Microsoft Azure Subscription
 - Reliable Internet Connection
 
-<h2>Setup Steps</h2>
+<h2>Setup Process</h2>
 
 
 <p>
