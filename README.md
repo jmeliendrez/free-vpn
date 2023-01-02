@@ -10,6 +10,6 @@ Recently I set up a VPN in an Azure Virtual Machine to be able to test out how d
 
 ## Youtube Video
 
-- [VM Setup]()
+- [VM Setup](https://youtu.be/0YpwRYq-RAo)
 
 - [Set Up a Free VPN]()
